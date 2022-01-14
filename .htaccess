@@ -1,4 +1,0 @@
-ErrorDocument 403  http://localhost/cv_en_ligne/403.php
-ErrorDocument 404 http://localhost/cv_en_ligne/404.php
-
-Options -indexes
